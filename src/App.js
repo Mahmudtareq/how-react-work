@@ -1,10 +1,9 @@
-import './App.css';
-import Watch from './components/Watch/Watch';
+import Blog from './pages/Blog/Blog';
 
 function App() {
   return (
-    <div className="App">
-      <Watch/>
+    <div>
+      <Blog/>
     </div>
   );
 }
